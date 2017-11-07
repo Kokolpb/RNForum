@@ -1,2 +1,2 @@
 # RNForum
-用React-Native编写的游戏推荐应用
+http://www.jianshu.com/p/72c3d3af094f
